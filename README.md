@@ -1,2 +1,2 @@
 # android_automation
-Курс 
+Курс по автотестам
